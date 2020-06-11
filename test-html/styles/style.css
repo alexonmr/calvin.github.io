@@ -1,0 +1,44 @@
+html {
+    font-size: 10px;
+    /*ceui*/
+    font-family: 'Open Sans', 'sans-serif';
+}
+
+html {
+    background-color: #00539f;
+}
+
+h1 {
+    font-size: 60px;
+    color: silver;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 10px 20px;
+    padding: 20px 0;
+    color: burlywood;
+    text-shadow: 3px 3px 1px silver;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
